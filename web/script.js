@@ -1,3 +1,6 @@
+let HairColorList = [];
+let LipColorList = [];
+
 const HairColorLists = {
     spring: [
         ["ピンク", [255, 182, 193]],
